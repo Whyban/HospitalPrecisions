@@ -11,5 +11,7 @@ Instructions how to run : download the Zip file and extract it to a htdocs folde
 
 
 Admin access email : admin, Password: admin123
+
 Doctor access email: Justine, Password: justinelang
+
 Patient access email: yvan, Password: yvan123
